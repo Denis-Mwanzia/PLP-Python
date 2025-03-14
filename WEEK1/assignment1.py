@@ -23,7 +23,7 @@ def calculator():
         print("Error: Invalid operator. Please enter a valid operator (+, -, *, /).")
         return
     # Display the result
-    print(f"firstNumber {operator} secondNumber = {result}")
+    print(f"{firstNumber} {operator} {secondNumber} = {result}")
     
 #Calling the function
 calculator()    
