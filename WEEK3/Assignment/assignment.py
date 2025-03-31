@@ -8,7 +8,6 @@ def calculate_discount(price, discount_percent):
 # Getting User Input
 price = float(input("Enter the price of the item: "))
 discount_percent = float(input("Enter the discount percentage (0-100): "))
-
 # Calculating Final Price
 final_price = calculate_discount(price, discount_percent)
 print(f"Final Price = Ksh. {final_price}.")
