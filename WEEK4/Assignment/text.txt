@@ -1,0 +1,5 @@
+hello there!
+welcome to the file read & write challenge.
+this is a test file containing some sample text.
+feel free to modify this content as needed.
+good luck and happy coding!
